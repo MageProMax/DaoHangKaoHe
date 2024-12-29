@@ -1,0 +1,8 @@
+﻿  导航组考核.cpp
+D:\C++课堂work'\导航组考核\导航组考核.cpp(134,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C++课堂work'\导航组考核\导航组考核.cpp(138,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++课堂work'\导航组考核\导航组考核.cpp(170,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++课堂work'\导航组考核\导航组考核.cpp(173,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\C++课堂work'\导航组考核\导航组考核.cpp(176,1): warning C4715: “Distance”: 不是所有的控件路径都返回值
+D:\C++课堂work'\导航组考核\导航组考核.cpp(164,1): warning C4715: “getContours”: 不是所有的控件路径都返回值
+  视觉.vcxproj -> D:\C++课堂work'\导航组考核\x64\Debug\导航组考核.exe
